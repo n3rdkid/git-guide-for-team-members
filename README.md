@@ -2,6 +2,7 @@
 Just Teaching My Team Members GIT! 
 
 (Learn GIT commands by yourself)
+********* MAY 6 *********
 
 #Task 1 ---- CLONE THIS REPOSITORY to your Desktop
 #Task 2 ---- Create a "YOURNAME.txt" File with Content "YOURNAME is learning Git" . For example : "Saurav Adhikari is learning Git"
